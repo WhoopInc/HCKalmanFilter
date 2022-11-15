@@ -1,3 +1,6 @@
+## Whoop Fork
+Created fork of this repo, simply so we can source the dependency from a Swift package, which is our preferred method to source dependencies. 
+
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/HCKalmanFilter.svg)](http://cocoapods.org/pods/HCKalmanFilter)
 [![License](https://img.shields.io/cocoapods/l/HCKalmanFilter.svg?style=flat)](http://cocoapods.org/pods/HCKalmanFilter)
 [![Platform](https://img.shields.io/cocoapods/p/HCKalmanFilter.svg?style=flat)](http://cocoapods.org/pods/HCKalmanFilter)
